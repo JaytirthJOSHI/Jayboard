@@ -10,3 +10,6 @@
 
 ### Back
 ![Back 3D Render](Back%203d%20render.png)
+
+## Bill of Materials
+[BOM.csv](BOM.csv)
